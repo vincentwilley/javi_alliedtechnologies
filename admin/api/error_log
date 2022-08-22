@@ -1,0 +1,68 @@
+[30-Jul-2022 12:44:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:45:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:48:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:48:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:48:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:48:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 12:49:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:58
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 58
+[30-Jul-2022 13:01:46 UTC] PHP Notice:  Undefined variable: stm in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 30
+[30-Jul-2022 13:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 30
+[30-Jul-2022 13:02:12 UTC] PHP Notice:  Undefined variable: stm in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 41
+[30-Jul-2022 13:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 41
+[30-Jul-2022 13:38:52 UTC] PHP Notice:  Undefined index: notify in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 22
+[01-Aug-2022 12:47:09 UTC] PHP Notice:  Undefined index: area in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/geofence.php on line 17
+[01-Aug-2022 12:47:09 UTC] PHP Notice:  Undefined index: vehicle in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/geofence.php on line 18
+[03-Aug-2022 04:15:33 UTC] PHP Notice:  Undefined index: notify in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/create_bookings.php on line 22
+[03-Aug-2022 21:18:39 UTC] PHP Notice:  Undefined index: mx_ff in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/vehicle.php on line 56
+[05-Aug-2022 00:38:33 UTC] PHP Notice:  Undefined index: approx_total_km in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 19
+[05-Aug-2022 00:38:33 UTC] PHP Notice:  Undefined index: start_date in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 20
+[05-Aug-2022 00:38:33 UTC] PHP Notice:  Undefined index: qty in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 21
+[05-Aug-2022 00:38:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php:41
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 41
+[05-Aug-2022 00:39:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vehicle_id' in 'where clause' in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php:38
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php(38): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 38
+[05-Aug-2022 00:39:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php:67
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php(67): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/api/loose_cargo.php on line 67

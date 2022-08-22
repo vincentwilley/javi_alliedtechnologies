@@ -1,0 +1,11 @@
+[05-Aug-2022 00:51:06 UTC] PHP Notice:  Undefined index: track_code in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/loose_cargo.php on line 385
+[12-Aug-2022 15:16:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by r.id desc' at line 1 in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php:87
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php(87): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php on line 87
+[12-Aug-2022 15:16:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by r.id desc' at line 1 in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php:87
+Stack trace:
+#0 /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php(87): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bg3yjtc0sglr/public_html/javi.alliedtechnologies.co/admin/bookings.php on line 87
